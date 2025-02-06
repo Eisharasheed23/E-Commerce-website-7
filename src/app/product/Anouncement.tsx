@@ -1,15 +1,16 @@
 
 'use client'
 import Link from 'next/link';
-import {useRouter} from "next/navigation"
+// import {useRouter} from "next/navigation"
 import { FaGasPump } from "react-icons/fa";
 import { TbChartDonut3 } from "react-icons/tb";
 import { FaUserFriends } from "react-icons/fa";
 import React from 'react';
 import Image from "next/image";
 
+
 export default function PickUpDropOff() {
-  const router = useRouter();
+  // const router = useRouter();
   return (
     <main>
       <div className="w-full mt-8 px-4">

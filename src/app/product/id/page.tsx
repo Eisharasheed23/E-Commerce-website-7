@@ -269,7 +269,7 @@ export default function Home() {
 
               {/* Car Image 8 */}
               <div style={{ backgroundColor: 'white', padding: '20px', borderRadius: '8px', boxShadow: '0 4px 6px rgba(0, 0, 0, 0.1)' }}>
-                <img src="/e-8.png" alt="Car 8" style={{ width: '100%', borderRadius: '8px', marginBottom: '10px' }} />
+                <Image src="/e-8.png" alt="Car 8" style={{ width: '100%', borderRadius: '8px', marginBottom: '10px', height:'2'}} />
                 <p style={{ fontSize: '16px', fontWeight: 'bold' }}>Porsche</p>
                 <p style={{ color: 'gray' }}>Sport</p>
                 <p style={{ fontWeight: 'bold' }}>$140.00 / day</p>

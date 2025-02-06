@@ -9,7 +9,7 @@ import { IoIosSettings } from "react-icons/io";
 import Image from "next/image"; // Make sure to import Image for optimization
 
 export default function Header() {
-  const [hasNotification, setHasNotification] = useState(true); // Example state for notification
+  const [hasNotification] = useState(true); // Example state for notification
 
   return (
     <header className="w-full h-[50px] bg-white flex justify-between items-center px-4 mb-4">

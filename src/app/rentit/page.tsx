@@ -1,4 +1,4 @@
-import { FaBitcoin, FaPaypal, FaRegCreditCard, FaRegCheckCircle } from "react-icons/fa";
+import { FaBitcoin, FaPaypal } from "react-icons/fa";
 import { IoMdLock } from "react-icons/io";
 import { FaStar } from "react-icons/fa"; // For stars
 import Link from 'next/link';

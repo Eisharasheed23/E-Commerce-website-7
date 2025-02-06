@@ -1,8 +1,4 @@
-// import Image from 'next/image';
 
-
-
-import Image from 'next/image';
 import { FaGasPump } from "react-icons/fa";
 import { TbChartDonut3 } from "react-icons/tb";
 import { FaUserFriends } from "react-icons/fa";
@@ -76,7 +72,7 @@ const Home = () => {
           <div className="flex-1">
             <h2 className="text-2xl font-semibold">Nissan GT - R</h2>
             <p className="text-gray-600 mt-2">440+ Reviewer</p>
-            <p className="mt-4 text-sm text-gray-700">NISMO has become the embodiment of Nissan's outstanding performance, inspired by the most unforgiving proving ground, the "race track".</p>
+            <p className="mt-4 text-sm text-gray-700">NISMO has become the embodiment of Nissans outstanding performance inspired by the most unforgiving proving ground the race track.</p>
             <div className="mt-4 space-y-2">
               <div className="flex items-center">
                 <FaGasPump className="mr-2 text-gray-500" />
